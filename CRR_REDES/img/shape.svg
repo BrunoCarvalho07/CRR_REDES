@@ -1,0 +1,7 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 256" width="1440" height="256">
+	<title>shape-svg</title>
+	<style>
+		.s0 { opacity: .3;fill: #1d55f7 } 
+	</style>
+	<path id="Layer" class="s0" d="m0 19.3v236.7h1440v-236.7c-138.5 14.6-482.8 35-751.4 0-268.7-35-571-14.6-688.6 0z"/>
+</svg>
